@@ -1,0 +1,21 @@
+import 'package:flutter/material.dart';
+
+String loginURL = "";
+String styleMasterLoginURL = "msb-sm-login";
+String styleMasterRegistrationURL = "msb-sm-registration";
+String mobileValidationURL = "msb-sb-mobilevalidation";
+String emailValidationURL = "msb-sb-emailvalidation";
+String logoutURL = "msb-sm-login";
+String addstyleMasterURL = "msb-sm-addstylemaster";
+String getservicelistURL = "msb-sm-getservicetype";
+String updateprofileURL = "msb-sm-updatestylemaster";
+String getstyleMasterListURL = "msb-sm-getstylemasterlist";
+String configureWorkSpaceURL = "msb-sm-configureworkspace";
+String myAppointmentURL = "msb-sm-myappointment";
+String offlineAppointmentURL = "msb-sm-offlinebooking";
+String getAvailableServicesURL = "msb-sb-getavailableservices";
+String smProfileDataURL = "msb-sm-getsmprofiledata";
+String accepteRejectAppointment = "msb-sm-accepterejectappointment";
+String getCityAutoURL = "msb-sm-getcityauto";
+String getSubscriptionPlanURL = "msb-sm-getsubscriptionplandtl";
+String updateStyleMasterStatusURL = "msb-sm-updatestylemasterstatus";

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113.5" height="112" viewBox="0 0 113.5 112">
+  <defs>
+    <filter id="Ellipse_844" x="0" y="0" width="112" height="112" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4.5" result="blur"/>
+      <feFlood flood-color="#fff"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="kid" x="10.5" y="4.5" width="103" height="103" filterUnits="userSpaceOnUse">
+      <feOffset dx="6" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-2"/>
+      <feFlood flood-color="#26273d" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="profile_placeholder" transform="translate(-140.5 -216.5)">
+    <g transform="matrix(1, 0, 0, 1, 140.5, 216.5)" filter="url(#Ellipse_844)">
+      <g id="Ellipse_844-2" data-name="Ellipse 844" transform="translate(13.5 13.5)" fill="none" stroke="#000" stroke-width="1" stroke-dasharray="3">
+        <circle cx="42.5" cy="42.5" r="42.5" stroke="none"/>
+        <circle cx="42.5" cy="42.5" r="42" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 140.5, 216.5)" filter="url(#kid)">
+      <g id="kid-2" data-name="kid" transform="translate(22.5 22.5)" fill="#fff" stroke="#c6c7e3" stroke-width="1">
+        <circle cx="33.5" cy="33.5" r="33.5" stroke="none"/>
+        <circle cx="33.5" cy="33.5" r="33" fill="none"/>
+      </g>
+    </g>
+    <path id="Icon_awesome-user" data-name="Icon awesome-user" d="M11.5,13.143A6.571,6.571,0,1,0,4.929,6.571,6.571,6.571,0,0,0,11.5,13.143Zm4.6,1.643h-.857a8.937,8.937,0,0,1-7.485,0H6.9a6.9,6.9,0,0,0-6.9,6.9v2.136a2.465,2.465,0,0,0,2.464,2.464H20.536A2.465,2.465,0,0,0,23,23.821V21.686A6.9,6.9,0,0,0,16.1,14.786Z" transform="translate(185 259)" fill="#c6c7e3"/>
+  </g>
+</svg>
